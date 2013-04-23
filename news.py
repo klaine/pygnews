@@ -2,7 +2,6 @@
 import lxml.etree
 import urllib2
 import sys
-import codecs
 
 # Type './news.py' to show latest news
 # Type './news.py boston bombing' to show latest news on Boston bombings or use any keywords as arguments
