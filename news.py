@@ -1,4 +1,7 @@
 #!/usr/bin/python
+
+# Show google news in terminal, formatted nicely
+
 import lxml.etree
 import urllib2
 import sys
